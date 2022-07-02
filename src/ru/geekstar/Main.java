@@ -3,6 +3,7 @@ package ru.geekstar;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	    // main - Ветка хранит всегда стабильную версию кода
+        // develop - Ветка предназначена для разработки и может быть не стабильной
     }
 }
